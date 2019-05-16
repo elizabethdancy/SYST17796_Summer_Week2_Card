@@ -10,7 +10,8 @@ package card;
  * @author dancye, 2019
  */
 public class Card {
-
+    
+   //test comment for push
    private String suit;
    private int value;
 
