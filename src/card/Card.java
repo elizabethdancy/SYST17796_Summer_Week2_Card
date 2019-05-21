@@ -7,7 +7,7 @@ package card;
 
 /**
  * A class to model cards
- * @author dancye, 2019 test 2
+ * @author dancye, 2019 test 3
  */
 public class Card {
     
