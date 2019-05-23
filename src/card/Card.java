@@ -7,7 +7,7 @@ package card;
 
 /**
  * A class to model cards
- * @author dancye, 2019 test 4
+ * @author dancye, 2019 Added change to pull down during class
  */
 public class Card {
     
